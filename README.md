@@ -7,5 +7,5 @@ A summary for the R files included in the zip documents:
 1. 'ML_Function_PHMM-HO.R': R function for the PHMM-HO 
 2. 'ML_Function_PHMM-HE.R': R function for the PHMM-HE 
 3. 'Function for Poisson Package.R': R function for PHMM to compare with PHMM-HO/PHMM-HE in the simulation study. The R code for MCMC and estimated marginal likelihood are the same for two regression model. The simulated data for two regression model are different.
-4. 'PHMM_HO_HE_People_Count.R': R code for case study with people flow in and out of building using PHMM, PHMM-HO and PHMM-HE.
+4. 'PReg-HMM-People_Count.R': R code for case study with people flow in and out of building using PHMM and PHMM-HO.
 5. 'CalIt2_Count.csv': data set used (people flow in and out of building https://archive.ics.uci.edu/ml/datasets/CalIt2+Building+People+Counts)
